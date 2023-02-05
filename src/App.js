@@ -51,7 +51,7 @@ function App() {
       youtube shorts mein SEO shi rehta kaafi view milta apne aap.
      </h3>
   <br></br>
-  <h1>REPLY IN THE COMMENT SECTION😂😂</h1>
+  {/* <h1>REPLY IN THE COMMENT SECTION😂😂</h1> */}
       
       </div>}
     </div>
