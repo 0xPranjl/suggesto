@@ -25,6 +25,8 @@ function App() {
     <div className="App">
     <br></br>
     <br></br>
+    <h1 style={{color:"purple"}}>Secret suggestion</h1>
+    <br></br>
     {!sugg?<div>
     <h2>Enter the Last 3 digits of your mobile number to verify its you</h2>
     <input style={{marginTop:50, fontSize:30}} placeholder="###" onChange={(e)=>{
