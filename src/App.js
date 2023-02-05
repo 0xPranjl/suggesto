@@ -44,7 +44,7 @@ function App() {
     }}>show suggestion</Button>
     </div>:<div style={{padding:50,fontFamily:"-moz-initial"}}>
      <h3>
-     1) Jo pehla wala gaana tha woh bhul jaao. "kahani suno" song suni ho woh gaa do bahut mast lagta aaj sunday hai agar free ho toh yaa jab bhi free hona tab
+     1) Jo pehla wala gaana hum kahe the woh bhul jaao. "kahani suno" song suni ho woh gaa do bahut mast lagta aaj sunday hai agar free ho toh yaa jab bhi free hona tab
       <br></br>
       <br></br>
       2)aur jo bhi gaana gaya karo woh upload kardiya karo and jo usme se mast wala part rehta hai na usko trim karke woh youtube shorts bana ke upload kardiya karo
