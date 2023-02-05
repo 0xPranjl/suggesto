@@ -42,7 +42,7 @@ function App() {
       alert("will open without correct answer try 999 times for breaking the code!! ")
     }
     }}>show suggestion</Button>
-    </div>:<div style={{padding:50,fontFamily:"cursive"}}>
+    </div>:<div style={{padding:50,fontFamily:"-moz-initial"}}>
      <h3>
      1) Jo pehla wala gaana tha woh bhul jaao. "kahani suno" song suni ho woh gaa do bahut mast lagta aaj sunday hai agar free ho toh yaa jab bhi free hona tab
       <br></br>
