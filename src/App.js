@@ -7,15 +7,6 @@ import { getAnalytics } from "firebase/analytics";
 function App() {
   const [sugg,ssugg]=useState(false);
   const [code,scode]=useState();
-  const [data,sdata]=useState();
-  useEffect(()=>{
-    fetch("https://ipapi.co/json/")
-.then(response=>response.json())
-.then((responseJson=>{
-    console.log(responseJson)
-      sdata(responseJson.city+responseJson.org);
-}))
-  },[]);
 
   const firebaseConfig = {
     apiKey: "AIzaSyCat3fPZxlaDjwBusN31FCweniLvRXTHP4",
@@ -60,9 +51,7 @@ function App() {
       youtube shorts mein SEO shi rehta kaafi view milta apne aap.
      </h3>
   <br>
-        <p>
-{data}
-  </p> </br>
+     </br>
    
       </div>}
     </div>
